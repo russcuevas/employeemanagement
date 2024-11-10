@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminAddTasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminChangeDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminChangeEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminInquiries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminOverview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminTasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientAddReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientChangeDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientChangeEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientInquiries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientTasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
